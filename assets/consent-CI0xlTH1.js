@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-P2Xu9kJm.js";function e(e,t){return`${e.replace(/^\/+/,`/`).replace(/oauth\/consent\/?$/,``)}#/oauth/consent${t}`}location.replace(e(location.pathname,location.search));
